@@ -2,6 +2,8 @@
 
 Welcome to the AI Code Fixer application! This tool is designed to assist developers in debugging their code, converting it into different programming languages, and evaluating code quality based on specific parameters.
 
+![preview](src/assets/preview.png)
+
 ## Features
 
 ### Code Debugging
